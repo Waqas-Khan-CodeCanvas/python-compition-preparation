@@ -1,0 +1,16 @@
+mathpps : https://mathspp.com/blog/building-a-python-compiler-and-interpreter
+Github Code : https://github.com/mathspp/building-a-python-compiler-and-interpreter
+AlgoMaster : https://algomaster.io/learn/python/what-is-python
+medium : https://bytemedirk.medium.com/how-the-python-programming-language-works-f2db6e42
+python official docs : https://docs.python.org/3/tutorial/interpreter.html
+python interpreter in python less than 500 line of code : https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+
+
+
+
+
+
+
+
+
+
