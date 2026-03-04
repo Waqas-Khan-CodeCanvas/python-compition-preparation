@@ -1,0 +1,6 @@
+python variable 
+memory addresses
+variable naming
+variable naming convension
+multipule variable and  values in single line
+multipule variable single varue in single line
